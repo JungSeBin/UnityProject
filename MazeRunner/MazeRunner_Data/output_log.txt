@@ -6,30 +6,30 @@ Direct3D:
     Vendor:   Intel
     VRAM:     128 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.096 seconds
-desktop: 1920x1200 59Hz; virtual: 3200x1200 at -1280,0
+Platform assembly: C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.087 seconds
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-Platform assembly: C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\PC\Desktop\MazeRunner\MazeRunner_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\PC\Desktop\UnityProject\MazeRunner\MazeRunner_Data\Managed\System.dll (this message is harmless)
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2d44 -> priority: 1 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 7.633111 ms
+  Thread -> id: 220c -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.036656 ms
 
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 368383.
-Total: 92.043152 ms (FindLiveObjects: 33.748009 ms CreateObjectMapping: 5.965600 ms MarkObjects: 51.693661 ms  DeleteObjects: 0.634655 ms)
+Total: 88.498138 ms (FindLiveObjects: 31.728783 ms CreateObjectMapping: 5.704193 ms MarkObjects: 50.464977 ms  DeleteObjects: 0.600182 ms)
 
